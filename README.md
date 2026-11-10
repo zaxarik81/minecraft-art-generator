@@ -7,6 +7,11 @@ Two Windows desktop tools for converting images into Minecraft map art and pixel
 - `MineSchematic` — size in Minecraft maps (`128 x 128` blocks per map).
 - `MinePixelArt` — size directly in blocks.
 
+## Ready-to-use builds
+
+- [MineSchematic.exe](releases/MineSchematic.exe) — map-art version.
+- [MinePixelArt.exe](releases/MinePixelArt.exe) — pixel-art version with dimensions in blocks.
+
 Генератор 2D-пиксельных схем Minecraft из PNG/JPG/WEBP.
 
 ## Возможности
